@@ -9,6 +9,6 @@
 
 `pip install -r 'requirements.txt'`
 
-`cd testApi'
+`cd testApi`
 
 `python manage.py runserver`
